@@ -1,0 +1,62 @@
+15,Time Comparison,"Compares spend for products over time periods. Trend graphs, top increases, and YoY, QoQ, MoM change in Dollars or Quantity.",8,https://erahcprod.wpengine.com/guides/80-20-descending-dollar/,https://erahcprod.wpengine.com/videos/80-20-descending-dollar-report-overview/
+16,Price Comparison by Item,"Visually compares prices paid for a single item across accounts. Modify default filters for item, account type and time frame.",8,https://erahcprod.wpengine.com/guides/contract-compliance/,https://erahcprod.wpengine.com/videos/contract-compliance-report-overview/
+20,High Frequency Items,Shows the items with the highest number of purchase invoices over the past 30 days.,8,https://erahcprod.wpengine.com/guides/facility-detail-analytics/,https://erahcprod.wpengine.com/videos/facility-detail-analytics-report-overview/
+22,80/20 Descending Dollar,Ranking report showing which items have contributed the most to spend by various categories. Additional drills to detail in graph and table.,8,https://erahcprod.wpengine.com/guides/high-frequency-items/,https://erahcprod.wpengine.com/videos/high-frequency-items-report-overview/
+24,Price Paid Trend,Shows variances between the minimum and maximum price invoiced for an item and calculates a projected financial impact on lowest invoice price.,8,https://erahcprod.wpengine.com/guides/inflation-report/,https://erahcprod.wpengine.com/videos/inflation-report-overview/
+29,Purchase Drill Down,Top-line spend summary by account with key mix ratios that allows for drilling to item and invoice detail.,8,https://erahcprod.wpengine.com/guides/item-velocity-report/,https://erahcprod.wpengine.com/videos/item-velocity-report-overview/
+70,Inflation Report,Shows whether the increases or decreases in spend are due to price changes or changes in my purchase volume.,8,https://erahcprod.wpengine.com/guides/newly-purchased-items-all-accounts/,https://erahcprod.wpengine.com/videos/newly-purchased-items-all-accounts-report-overview/
+72,Omits Trend by Account,Looks at Omits by Account over time for all Items or a set of Items.,10,https://erahcprod.wpengine.com/guides/newly-purchased-items-by-account/,https://erahcprod.wpengine.com/videos/newly-purchased-items-by-account-report/
+74,Controlled Substance Order Details,Detail report showing all Controlled Substances purchases over the past 30 days.,9,https://erahcprod.wpengine.com/guides/price-comparison-by-item/,https://erahcprod.wpengine.com/videos/price-comparison-by-item-video/
+94,Therapeutic Usage Detail, Provides interactive analysis of purchases by therapeutic class with drill to time comparison solution.,,https://erahcprod.wpengine.com/guides/price-paid-trend/,https://erahcprod.wpengine.com/videos/price-paid-trend-report-overview/
+,8,,,https://erahcprod.wpengine.com/guides/purchase-comparison-to-average/,
+108,Account Configuration,Overview of your accounts and how they are coded in McKesson Systems,11,https://erahcprod.wpengine.com/guides/purchase-drill-down/,https://erahcprod.wpengine.com/videos/purchase-drill-down-report-overview/
+119,Top Omitted Items,Shows items that have had the highest quantity omitted as well as the fill/omit trends for those items.,10,https://erahcprod.wpengine.com/guides/purchasing-detail/,https://erahcprod.wpengine.com/videos/purchasing-detail-report-overview/
+135,Time Series by Account,Compares trends in spend between accounts.,8,https://erahcprod.wpengine.com/guides/quick-item-purchase-history/,https://erahcprod.wpengine.com/videos/quick-item-purchase-history-report-overview/
+136,Time Series by Item,Shows purchases by month with flexible item and account grouping options.,8,https://erahcprod.wpengine.com/guides/therapeutic-usage-detail/,https://erahcprod.wpengine.com/videos/therapeutic-usage-detail-report-overview/
+137,Purchasing Detail,Shows invoice level detail for all purchases with interactive summary.,8,https://erahcprod.wpengine.com/guides/time-comparison/,https://erahcprod.wpengine.com/videos/time-comparison-report-overview/
+146,Quick Item Purchase History,Shows invoice level detail on purchases for specified items for the selected time.,8,https://erahcprod.wpengine.com/guides/time-series-by-account/,
+150,Return Analysis,Shows saleable returns by account with corresponding purchase information.,13,https://erahcprod.wpengine.com/guides/time-series-by-item/,
+171,Newly Purchased Items - All Accounts,Displays items purchased for the first time by any account looking back at all available purchase history. The time frame can be changed in filter section.,8,https://erahcprod.wpengine.com/guides/controlled-substance-order-details/,https://erahcprod.wpengine.com/videos/controlled-substances-order-details-report-overview/
+172,Newly Purchased Items - By Account,"Shows items that have been recently bought for the first time, for a single account.",8,https://erahcprod.wpengine.com/guides/drug-shortage-omits/,https://erahcprod.wpengine.com/videos/drug-shortage-omits-report-overview/
+244,Contract Compliance,Shows percent of purchases on contract and mix of multi-source/single-source purchases.,8,,https://erahcprod.wpengine.com/videos/omits-trend-by-account-report-overview/
+279,User / Account Mapping,Shows which accounts each user has access to.,11,,https://erahcprod.wpengine.com/videos/top-omitted-items-report-overview/
+282,Top 20 Returns,"Ranking and detail report showing Top 20 Returns for a given time period, set of accounts and items.",13,https://erahcprod.wpengine.com/guides/account-configuration/,https://erahcprod.wpengine.com/videos/account-configuration-report-overview/
+283,Credit Review Summary,Rank and review all credits transactions (including product returns and credit rebills) by item and account grouping with detailed table and drills to invoice level.,13,,
+296,Drug Shortage Omits,Shows information provided by suppliers (manufacturers) regarding item availability or supply constraints.,10,,https://erahcprod.wpengine.com/videos/credit-less-than-100-percent-video/
+297,Facility Detail Analytics,"Compares a selected month to monthly average (dollars, quantity & unit price). Includes time comparison & drills.",8,,
+319,Item Velocity Report,Provides inventory management metrics such as average quantity per invoice and last order date with flexible item and account level grouping options.,8,https://erahcprod.wpengine.com/guides/return-analysis/,https://erahcprod.wpengine.com/videos/return-analysis-report-overview/
+327,IDB Document Summary,Shows IDB system-wide activity by IDB document.,15,https://erahcprod.wpengine.com/guides/top-20-returns/,https://erahcprod.wpengine.com/videos/top-20-returns-report-overview/
+328,IDB Detail Report,Detail-level report of all IDB activity.,15,https://erahcprod.wpengine.com/guides/idb-account-level-summary/,
+329,IDB Account Level Summary,Top line summary of IDB activity by IDB account.,15,https://erahcprod.wpengine.com/guides/idb-detail-report/,
+330,IDB Item Summary,Shows IDB system-wide activity by IDB item.,15,https://erahcprod.wpengine.com/guides/idb-document-summary/,
+359,Credit Less Than 100 Percent,Report shows product returns if the credited amount per package was less than the original price paid.,13,https://erahcprod.wpengine.com/guides/idb-item-summary/,https://erahcprod.wpengine.com/videos/time-series-by-account-report-overview/
+396,Catalog Price Comparison,Compares item level price from catalog for up to eight accounts and calculates the difference.,22,,
+397,Cost Change,Compares catalog prices for selected dates and accounts.  Estimates the financial impact based on purchase history.,22,,
+414,Contract Lead Comparison,Compares contract leads loaded across selected accounts and highlights variances with drill to NDC / item detail.,22,,
+450,Price Catalog Availability,Shows a list of accounts that have data available in price catalog reports.,22,,
+452,Rebates Dashboard,Overview of supply agreement rebates received by account,23,,
+456,DSCSA Traceability Report,"Shows transactional information, transaction history and statements required under subsection 582(d) of the Drug Supply Chain Security Act (DSCSA)",30,,
+459,Salesperson to Account Mapping,Provides McKesson sales team with a summary of ERA sales team access by customer.  Includes drill to account detail.,31,,
+462,Purchase Comparison to Average,Compares purchases of a selected month to an average monthly timeframe.,8,,
+463,Real-Time Price Test,Real Time Pricing,22,,
+471,Formulary Tracker - Monthly Trend,"Provides a monthly trend to track formulary initiatives, update default filter on Generic Description to customize.",32,,
+491,COGs Value & Invoice Analysis ,Shows cost of goods (COGs) by item with summary of value and invoice level detail.,35,,
+518,COGs Invoice Analysis for MNS,MNS COGS pricing report required monthly by 10th of month.  To be sent to McKesson pricing team to update pricing category prior to sending to MHS sales rep.,35,https://erahcprod.wpengine.com/guides/formulary-tracker-monthly-trend-guide/,https://erahcprod.wpengine.com/videos/formulary-tracker-monthly-trend-video/
+543,Facility Detail Analytics (Includes Other Vendor Purchases),,35,,
+546,340 B Savings,Compares item level price from catalog for up to eight accounts and calculates the difference.,22,,
+548,Facility Detail Analytics Monthly Drill (Includes Other Vendor Purchases),,35,,
+555,Cost Change Full Extract,Compares catalog prices for selected dates and accounts.  Estimates the financial impact based on purchase history.,22,,
+573,New Viz Validation,,27,,
+591,Time Series by Item (Includes Other Vendor Purchases),Shows purchases by month with flexible item and account grouping options.,35,,
+600,Purchase Comparison to Average,,35,,
+610,Time comparison non mckesson,,35,https://erahcprod.wpengine.com/guides/idb-document-summary/,
+612,Time Series by Item (Includes Other Vendor Purchases) (Drilldown),Shows purchases by month with flexible item and account grouping options.,35,,
+613,Inflation Report (Includes Other Vendor Purchases),,35,,
+614,Inflation Item Details (Includes Other Vendor Purchases),,35,,
+622,Catalog Price Comparison,Compares the catalog price for an item across selected accounts and highlights differences to help with contract price verification.,35,,
+623,Catalog Price Comparison Detail,Compares item level price from catalog for up to eight accounts and calculates the difference.,35,,
+643,WIP - IDB Detail Report,Detail-level report of all IDB activity.,35,,https://erahcprod.wpengine.com/videos/time-series-by-item-report-overview/
+644,IDB Document Summary,Shows IDB system-wide activity by IDB item.,35,,
+645,IDB Item Summary,Shows IDB system-wide activity by IDB item.,35,,
+646,IDB Account Level Summary,Top line summary of IDB activity by IDB account.,35,,
+647,DSCSA Traceability Report,"Shows transactional information, transaction history and statements required under subsection 582(d) of the Drug Supply Chain Security Act (DSCSA)",35,,
